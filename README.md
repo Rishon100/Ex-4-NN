@@ -203,7 +203,7 @@ print(
 ```
 
 <H3>Output:</H3>
-<img width="1175" height="915" alt="image" src="https://github.com/user-attachments/assets/e952eb5f-998b-47a1-b3d2-d775098325ea" />
+<img width="652" height="1030" alt="image" src="https://github.com/user-attachments/assets/e6f37fb2-bcbe-4acd-b968-15eddc879bbf" />
 
 <H3>Result:</H3>
 Thus, MLP is implemented for multi-classification using python.
